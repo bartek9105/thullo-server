@@ -9,7 +9,10 @@
 	"author": "Bartłomiej Matoga",
 	"license": "MIT",
 	"dependencies": {
-		"express": "^4.17.1"
+		"dotenv": "^10.0.0",
+		"express": "^4.17.1",
+		"mariadb": "^2.5.5",
+		"sequelize": "^6.9.0"
 	},
 	"devDependencies": {
 		"nodemon": "^2.0.15"
