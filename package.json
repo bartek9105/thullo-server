@@ -1,0 +1,17 @@
+{
+	"name": "thullo-server",
+	"version": "1.0.0",
+	"description": "Server for Thullo",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon index.js"
+	},
+	"author": "Bartłomiej Matoga",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.15"
+	}
+}
